@@ -1,0 +1,143 @@
+[K101]
+Kursi kantor hitam. Sandaran jaring nilon, dudukan busa, rangka plastik, kaki metal chrome, roda karet. Beban maks 80 kg. Hidrolik, putar 360°, ada armrest. Dudukan 48x48 cm, tinggi sandaran 40 cm, tinggi dudukan 40-50 cm. Kemasan 53x24x51 cm.
+
+[K102]
+Kursi kantor jaring (mesh) nilon pada sandaran dan dudukan, kaki metal chrome. Beban maks 90 kg. Hidrolik, ada armrest dan headrest. Ukuran 46x48x94 cm, tinggi dudukan 40-50 cm.
+
+[K103]
+Kursi kantor hitam, jaring nilon, armrest plastik kokoh, kaki metal chrome. Beban maks 100 kg. Hidrolik, ada headrest. Ukuran 46x48x94 cm, tinggi dudukan 40-50 cm.
+
+[K103B]
+Sama dengan K103 (hitam, jaring nilon, beban maks 100 kg, hidrolik, headrest, 46x48x94 cm, tinggi dudukan 40-50 cm) tapi mekanis Butterfly: sandaran bisa diayun/tilting untuk santai.
+
+[K104]
+Kursi kantor putih-hitam. Beban maks 100 kg. Hidrolik, putar 360°, ada armrest. Dudukan 48x48 cm, tinggi sandaran 40 cm, tinggi dudukan 45-55 cm.
+
+[K104B]
+Sama dengan K104 (putih-hitam, beban 100 kg, hidrolik, putar 360°, armrest, dudukan 48x48 cm, sandaran 40 cm, tinggi dudukan 45-55 cm) tapi mekanis Butterfly: sandaran bisa tilting.
+
+[K105]
+Kuca. Kursi bar (barstool) transparan: sandaran dan dudukan akrilik tebal, rangka/kaki metal chrome, bantalan busa empuk. Desain minimalis untuk bar, dapur, kafe. Hidrolik (tuas bawah dudukan), putar 360°, ada pijakan kaki (footrest) metal bentuk D, sasis bawah bulat lebar 38,5 cm (stabil). Tinggi total 57-77 cm (bisa diatur), tinggi sandaran 25 cm, kedalaman dudukan 33 cm, lebar dudukan 38 cm, jarak pijakan ke dudukan 35 cm.
+
+[K106]
+Kuca. Kursi ergonomis putih-hitam, jaring (mesh) berpori, plastik dan metal, kaki roda nilon. Berat 5,5 kg, beban maks 130 kg. Penyangga pinggang busur, headrest bisa diatur tinggi, sandaran tinggi 55 cm, dudukan busa empuk, armrest melengkung, tinggi bisa diatur, putar mulus. Ukuran 50x50x102-110 cm, tinggi dudukan 34-42 cm, diameter kaki roda 55 cm.
+
+[K107]
+Kuca. Sama dengan K106 tapi warna hitam: jaring (mesh), plastik dan metal, kaki roda nilon, 5,5 kg, beban maks 130 kg, penyangga pinggang, headrest adjustable, sandaran 55 cm, armrest melengkung. Ukuran 50x50x102-110 cm, tinggi dudukan 34-42 cm, diameter kaki roda 55 cm.
+
+[K108]
+Kursi kantor putih, sandaran mesh polyester (adem/breathable). Armrest bisa naik-turun, ayun hingga 45°, hidrolik, roda putar 360° mulus. Detail ukuran ada di gambar katalog.
+
+[K108B]
+Sama dengan K108 (putih, mesh polyester, armrest adjustable, hidrolik, roda 360°) tapi mekanis Butterfly (tilting lebih fleksibel, ayun hingga 45°). Detail ukuran di gambar katalog.
+
+[K109]
+Sama dengan K108 tapi warna hitam: sandaran mesh polyester, armrest adjustable, ayun hingga 45°, hidrolik, roda 360°. Detail ukuran di gambar katalog.
+
+[K109B]
+Sama dengan K109 (hitam, mesh polyester, armrest adjustable, hidrolik, roda 360°) tapi mekanis Butterfly (tilting, ayun hingga 45°). Detail ukuran di gambar katalog.
+
+[K110]
+Caho. Kursi gaming, kaki nilon plastik kokoh. Sandaran bisa miring hingga 130° (multi-function), ada bantal pinggang, bantal kepala, footrest tarik, hidrolik, putar 360°. Tinggi dudukan 44-52 cm, lebar dudukan 50 cm.
+
+[K111]
+Kuca. Kursi gaming modern, kulit sintetis mudah dibersihkan, rangka logam, kaki nilon bintang lima, roda berlapis PU ramah lantai. Berat 14 kg (paket 14,5 kg). Ergonomis, sandaran rebah hingga 135°, bantal kepala dan pinggang, armrest menyatu dengan sandaran (ikut menyesuaikan), dudukan lebar, footrest lipat tarik. Tinggi total 124-134 cm, sandaran 80 cm, lebar sandaran atas 58 cm, lebar dudukan dalam 56 cm, kedalaman 54 cm, tinggi dudukan 44-51 cm, tinggi armrest 64-79 cm, diameter roda 70 cm, paket 80x58x25 cm.
+
+[K112]
+Kursi ergonomis putih, mesh breathable, rangka dan kaki nilon kokoh. Berat 11 kg, beban maks 90 kg. Sandaran miring 90-145°, footrest lipat tarik, hidrolik, roda mulus. Tinggi total 118-129 cm, sandaran 63 cm, lebar sandaran 52 cm, kedalaman dudukan 48 cm, tinggi armrest 24 cm, diameter roda 60 cm, paket 64x64x107 cm.
+
+[K113]
+Kuca. Kursi gaming modern hitam, kulit sintetis mudah dibersihkan, kaki nilon bintang lima. Berat 14 kg (paket 14,5 kg). Ergonomis, sandaran rebah hingga 135°, bantal kepala dan pinggang, armrest menyatu dengan sandaran, dudukan lebar, hidrolik, roda nilon putar 360°. Tinggi total 115-125 cm, sandaran 80 cm, lebar dudukan 50 cm, kedalaman 48 cm, tinggi dudukan 36-46 cm, diameter roda 65 cm, paket 80x25x58 cm.
+
+[K114]
+Sama dengan K112 tapi warna hitam: mesh breathable, nilon, 11 kg, beban maks 90 kg, sandaran miring 90-145°, footrest lipat, hidrolik. Tinggi total 118-129 cm, sandaran 63 cm, lebar sandaran 52 cm, kedalaman 48 cm, tinggi armrest 24 cm, diameter roda 60 cm, paket 64x64x107 cm.
+
+[K115]
+Kuca. Kursi mesh putih breathable. Headrest adjustable, hidrolik, penyangga pinggang (lumbar) adjustable, sandaran bisa diatur miring dan ayun hingga 45°, footrest tarik, roda 360° mulus. Detail ukuran di gambar katalog.
+
+[K119]
+Kuca. Kursi kain fabric abu-abu breathable, bantalan busa empuk, kaki bintang nilon besar, roda halus minim suara. Berat 22 kg. Ergonomis, putar 360°, ketinggian diatur, sandaran bisa rebah, bantal kepala dan pinggang adjustable, armrest berbantalan. TANPA footrest. Tinggi total 131 cm, sandaran 82 cm, lebar sandaran atas 54 cm, lebar dudukan dalam 37 cm, kedalaman 51 cm, tinggi dudukan 51 cm, tinggi armrest 75 cm.
+
+[K120]
+Kuca. Kursi kantor ergonomis modern, mesh berpori adem + busa empuk. Penyangga pinggang, headrest melengkung (tinggi dan sudut bisa diatur), sandaran bisa rebah, armrest nyaman, footrest lipat tarik, hidrolik, roda 360° mulus. Tinggi total 115-125 cm, sandaran 80 cm, lebar dudukan 50 cm, tinggi armrest 68-78 cm, diameter roda 60 cm, paket 70x60x30 cm.
+
+[K121]
+Sama dengan K119 tapi warna pink dan ADA footrest lipat tarik. Kuca, kain fabric breathable, busa empuk, kaki nilon besar roda minim suara, berat 22 kg, putar 360°, sandaran rebah, bantal kepala+pinggang adjustable. Tinggi total 131 cm, sandaran 82 cm, lebar sandaran atas 54 cm, lebar dudukan dalam 37 cm, kedalaman 51 cm, tinggi dudukan 51 cm, tinggi armrest 75 cm.
+
+[K122]
+Kuca. Kursi hitam+abu-abu, kulit sintetis (PU leather) mudah dibersihkan. Ergonomis, bantal kepala dan pinggang adjustable, dudukan dan sandaran lebar empuk, hidrolik, kaki bintang lima roda halus minim suara, footrest lipat tarik. Tinggi total 109-119 cm, sandaran 75 cm, lebar sandaran 50 cm, lebar dudukan 52 cm, diameter roda 64 cm, paket 64x64x119 cm.
+
+[K123]
+Sama dengan K115 tapi warna hitam. Kuca, mesh breathable, headrest adjustable, hidrolik, lumbar support adjustable, sandaran miring dan ayun hingga 45°, footrest tarik, roda 360°. Detail ukuran di gambar katalog.
+
+[K126]
+Kursi gaming hitam, kaki nilon plastik kokoh. Sandaran miring hingga 130°, bantal pinggang, bantal kepala, footrest tarik, hidrolik, putar 360°. Tinggi dudukan 44-52 cm, lebar dudukan 50 cm.
+
+[K127]
+Sama dengan K126 tapi warna merah-hitam: kursi gaming, sandaran miring hingga 130°, bantal pinggang dan kepala, footrest tarik, hidrolik, putar 360°. Tinggi dudukan 44-52 cm, lebar dudukan 50 cm.
+
+[K132]
+Titan, seri Throne Series V1. Kursi gaming kulit sintetis (PU leather) mudah dibersihkan, kaki bintang nilon roda 55 mm. Sandaran rebah/tilt hingga 140°, bantal kepala dan pinggang empuk, armrest melengkung berbantalan, hidrolik (gaslift), roda 360°. Detail ukuran di gambar katalog.
+
+[K137]
+Fantech, seri OCA258 Premium Office Chair. Sandaran mesh breathable, kaki bintang 5 nilon, kastor halus. Headrest adjustable tinggi, gantungan jas/jaket di belakang sandaran, lumbar support ergonomis, dudukan busa nyaman, hidrolik. Detail ukuran di gambar katalog.
+
+[K138]
+Fantech, seri OCA258s V2 Premium Office Chair. Sama dengan K137 (mesh breathable, kaki bintang 5 nilon, headrest adjustable, gantungan jas, lumbar support, hidrolik) plus armrest bisa di-adjust. Detail ukuran di gambar katalog.
+
+[K151]
+Kursi kulit sintetis (PU leather) berkualitas tinggi, rangka baja, kaki bintang lima metal/baja, roda PU/karet anti-slip senyap putar 360° ramah lantai. Ergonomis, sandaran kepala/bantal leher, armrest adaptif berpad empuk, gaslift bersertifikat SGS, dudukan lebar 50 cm busa tebal. TANPA footrest. Detail ukuran di gambar katalog.
+
+[K151B]
+Sama dengan K151 (PU leather, rangka baja, kaki metal, roda PU anti-slip, armrest adaptif, gaslift SGS, lebar dudukan 50 cm) tapi ADA footrest lipat tarik untuk santai/berbaring. Detail ukuran di gambar katalog.
+
+[M211]
+Meja kerja/belajar minimalis, bahan MDF. Untuk aktivitas ringan (laptop, menulis, belajar), TIDAK direkomendasikan untuk set-up komputer gaming berat. Simpel hemat tempat, permukaan rata mudah dibersihkan, stabil. Ukuran 100x45x73 cm (P x L x T).
+
+[M216]
+Meja laptop portable adjustable, papan MDF + rangka besi. Berat 4 kg (paket 4,5 kg). Tinggi bisa diatur 68-90 cm, ada roda di kaki (mudah dipindah), permukaan pas untuk laptop. Warna menyesuaikan stok. Ukuran 60x40 cm, paket 68x7x45,5 cm.
+
+[M217]
+Meja kerja/belajar dengan rak buku multi-kompartemen, papan MDF. Minimalis modern, rak untuk buku/alat tulis/dekorasi, permukaan mudah dibersihkan, ada pelindung/bantalan kaki anti-gores lantai. Ukuran 100x55 cm, tinggi total termasuk rak 110 cm.
+
+[M218]
+Sama dengan M217 tapi lebih panjang: meja kerja/belajar + rak buku multi-kompartemen, MDF, ada bantalan kaki. Ukuran 120x55 cm, tinggi total termasuk rak 110 cm.
+
+[M220]
+Meja kantor minimalis, particle board. Laci atas dengan kunci, lemari bawah berpintu, desain dua warna (motif kayu jati + hitam), permukaan rata. Ukuran 120x59x73 cm.
+
+[M221]
+Meja gaming/kerja, papan MDF, rangka kaki besi. Desain gaming simpel fungsional, ada lubang kabel. Panjang 100 cm; detail ukuran lain di gambar katalog.
+
+[M221B]
+Meja gaming, papan MDF motif karbon pada permukaan, rangka kaki besi, ada lubang kabel. Panjang 100 cm; detail ukuran lain di gambar katalog.
+
+[M222]
+Sama dengan M221 tapi panjang 120 cm: meja gaming/kerja, MDF, kaki besi, lubang kabel. Detail ukuran lain di gambar katalog.
+
+[M222B]
+Sama dengan M221B tapi panjang 120 cm: meja gaming motif karbon, MDF, kaki besi, lubang kabel. Detail ukuran lain di gambar katalog.
+
+[M223B]
+Sama dengan M221B tapi panjang 140 cm: meja gaming motif karbon, MDF, kaki besi, lubang kabel. Detail ukuran lain di gambar katalog.
+
+[M224]
+Meja komputer/PC compact minimalis, particle board + rangka besi. Ada rak geser (sliding tray) keyboard/mouse, rak bawah untuk CPU/printer, ada roda di kaki. Ukuran 69x45x73 cm.
+
+[R401]
+Meja TV minimalis, papan MDF. Berat 13 kg. 3 tempat tertutup (1 pintu lemari samping + 2 laci), rak terbuka di tengah, kaki gaya skandinavia, permukaan luas mudah dibersihkan. Ukuran 120x30x38 cm.
+
+[R402]
+Rak buka 7 susun serbaguna/rak buku minimalis, papan MDF. Untuk koleksi, hiasan, buku, majalah; mudah dibersihkan. Ukuran 49,5x24x106 cm.
+
+[R404]
+Nakas minimalis/meja samping tempat tidur modern, papan MDF. 2 ruang tertutup (pintu/laci), 1 rak terbuka samping, kaki penyangga, pembatas di atas meja agar barang tidak jatuh, sudut melengkung. Ukuran 43x30x48 cm (tinggi kaki 12 cm).
+
+[R406]
+Meja TV minimalis, papan MDF. Berat 13,5 kg. 4 kompartemen tertutup berpintu, rak terbuka di tengah, kaki gaya skandinavia. Ukuran 140x30x38,5 cm.
+
+[R407]
+Meja TV teleskopik minimalis (adjustable), papan MDF. Panjang bisa digeser 120-200 cm, 3 kompartemen tertutup berpintu, rak terbuka. Lebar 30 cm, tinggi 43 cm.
+
+[R408]
+Meja TV minimalis modern, papan MDF. Ringkas hemat tempat, kompartemen terbuka untuk media player/dekorasi/konsol game, mudah dibersihkan. Ukuran 80x29x30 cm.
